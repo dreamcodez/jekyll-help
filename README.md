@@ -2,7 +2,7 @@
 
 Welcome to the Help repo for Jekyll! This is our new central repository where you can ask questions about how to use Jekyll. It's mediated by passionate community members with extensive experience and kind hearts.
 
-## How do I ask a question?
+## How do I ask a question?????
 
 First thing you should always do is **search through the issues**. If an issue exists for your question already, you're good to go! If you have a **follow-up question**, post a comment! If you **can't find a related issue**:
 
